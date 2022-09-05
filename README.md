@@ -1,5 +1,3 @@
-# Effective-Communication-System-for-Mute-People
-
      The mute community around the globe has a hard time communicating with the rest of the world's population. This communication gap is there because a dumb person uses sign language which is not comprehensible by a normal person. This project mainly focuses on removing the barrier of communication between the mute community and the people not familiar with the concept of sign language so that the messages that a dumb person is trying to relay is understandable to a person with no knowledge of sign language. The design of the device is based on embedded systems. Flex sensors and Arduino are the key components.
 
      The proposed method, the use of hand gesture reading system fitted with gestures and flex sensors linked to each finger and Linked as input to the RF Transmitter along with the speaker unit. This machine is operated by a battery-powered circuitry. Just run it. Also, this device will include various terms and phrases that will help mute people send simple messages. This is the Device reads the hand gesture of a stupid person for various differences in the movement of the 
